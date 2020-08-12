@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165134181816",
+    "firebase_url": "https://salary-app-a0bac.firebaseio.com",
+    "project_id": "salary-app-a0bac",
+    "storage_bucket": "salary-app-a0bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165134181816:android:6b5e90ad49f2725700db4d",
+        "android_client_info": {
+          "package_name": "com.itian.salary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165134181816-lkkeab0o51lo8j7h9uh6etv0v48iaf3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGONbUuKmV7L1B_d5sdwAWRfcugs0JhEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165134181816-lkkeab0o51lo8j7h9uh6etv0v48iaf3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
